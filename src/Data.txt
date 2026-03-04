@@ -1,0 +1,11 @@
+1. email:
+- Ký tự cho phép: Chữ cái (a-z), số (0-9), và dấu chấm (.).
+- Ký tự không được dùng: Dấu cách, dấu câu, các ký hiệu (&, =, _, ', -, +, ,, <, >).
+- Dấu chấm: Không thể dùng làm ký tự bắt đầu hoặc kết thúc, và không được có hai dấu chấm trở lên liên tiếp.
+2. số điện thoại:
+- đầu số điện thoại viettel 032, 033, 034, 035, 036, 037, 038, 039, 096, 097, 098, 086.
+- đầu số VinaPhone 091, 094, 081, 082, 083, 084, 085, 088
+- đầu số điện thoại Mobifone 070, 076, 077, 078, 079
+3. tên tài khoản:
+- bất kỳ ký tự nào
+- ít nhất 3 ký tự, kiểu nhất 12 ký tự
